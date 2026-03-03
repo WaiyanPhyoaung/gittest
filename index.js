@@ -4,7 +4,3 @@
 console.log("Hello World");
 console.log("This is a new line added in the feat/log branch");
 //some changes
-
-// currently changing some codes in user feature
-
-// ERROR ERROR ERROR
